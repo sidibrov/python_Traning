@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="Start Lesson 8 01-07" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kA4RWEbh6S6YMBdkDjEdUOewN4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_Traning" />
+      <recent name="D:\python_Traning\lesson_003" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="03_man_ans_cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_Traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_007" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_007/03_man_ans_cat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_Traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python38-32/Lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python38-32/Lib/random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="termcolor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_Traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/Python38-32/Lib/site-packages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/Python38-32/Lib/site-packages/termcolor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_Traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.random" />
+        <item itemvalue="Python.03_man_ans_cat" />
+        <item itemvalue="Python.termcolor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\swe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="" />
+      <created>1605130054009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605130054009</updated>
+      <workItem from="1605130055500" duration="126000" />
+      <workItem from="1605207198484" duration="10848000" />
+      <workItem from="1605563408615" duration="1960000" />
+      <workItem from="1605717549380" duration="4000000" />
+      <workItem from="1605858432443" duration="714000" />
+      <workItem from="1606817133065" duration="33733000" />
+      <workItem from="1607326954750" duration="13266000" />
+      <workItem from="1607362423233" duration="3617000" />
+      <workItem from="1607404851890" duration="3750000" />
+      <workItem from="1607666574744" duration="5553000" />
+      <workItem from="1607796778373" duration="1069000" />
+      <workItem from="1610056568187" duration="783000" />
+      <workItem from="1610111955889" duration="693000" />
+      <workItem from="1610742428245" duration="3614000" />
+      <workItem from="1611000926025" duration="10385000" />
+      <workItem from="1611056953830" duration="2562000" />
+      <workItem from="1611690949798" duration="597000" />
+      <workItem from="1612090761852" duration="2445000" />
+      <workItem from="1612124321614" duration="5551000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start Lesson 8">
+      <created>1612126347263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126347263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start Lesson 8 01-07">
+      <created>1612126971532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612126971532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:D:/python_Traning" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/lesson_008" />
+    </ignored-roots>
+    <MESSAGE value="Start Lesson 8" />
+    <MESSAGE value="Start Lesson 8 01-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Lesson 8 01-07" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="202" key="#xdebugger.evaluate" timestamp="1605730670277">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="864" y="202" key="#xdebugger.evaluate/0.0.2560.1392@0.0.2560.1392" timestamp="1605730670277" />
+    <state x="872" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605732082509">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="872" y="404" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1392@0.0.2560.1392" timestamp="1605732082509" />
+    <state x="91" y="91" width="2378" height="1210" key="DiffContextDialog" timestamp="1612128910190">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="91" y="91" width="2378" height="1210" key="DiffContextDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612128910190" />
+    <state x="1006" y="370" key="FileChooserDialogImpl" timestamp="1612125603573">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1006" y="370" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1612125603573" />
+    <state width="2504" height="462" key="GridCell.Tab.0.bottom" timestamp="1611062470999">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="2504" height="462" key="GridCell.Tab.0.center" timestamp="1611062470999">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="2504" height="462" key="GridCell.Tab.0.left" timestamp="1611062470999">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="2504" height="462" key="GridCell.Tab.0.right" timestamp="1611062470999">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="2504" height="462" key="GridCell.Tab.1.bottom" timestamp="1611062471000">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.1.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1611062471000" />
+    <state width="2504" height="462" key="GridCell.Tab.1.center" timestamp="1611062471000">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.1.center/0.0.2560.1392@0.0.2560.1392" timestamp="1611062471000" />
+    <state width="2504" height="462" key="GridCell.Tab.1.left" timestamp="1611062470999">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.1.left/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="2504" height="462" key="GridCell.Tab.1.right" timestamp="1611062471000">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2504" height="462" key="GridCell.Tab.1.right/0.0.2560.1392@0.0.2560.1392" timestamp="1611062471000" />
+    <state x="1106" y="321" key="RollbackChangesDialog" timestamp="1612129138859">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1106" y="321" key="RollbackChangesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612129138859" />
+    <state x="655" y="235" key="SettingsEditor" timestamp="1612129878878">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="655" y="235" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1612129878878" />
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2" timestamp="1612129010382">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612129010382" />
+    <state x="1169" y="362" key="VcsDiffUtil.ChangesDialog" timestamp="1612127209260">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1169" y="362" key="VcsDiffUtil.ChangesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612127209260" />
+    <state x="1033" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612127672711">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1033" y="584" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612127672711" />
+    <state x="608" y="236" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605726104770">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="608" y="236" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1392@0.0.2560.1392" timestamp="1605726104770" />
+    <state x="1006" y="451" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1612126709070">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1006" y="451" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.2560.1392@0.0.2560.1392" timestamp="1612126709070" />
+    <state x="1026" y="429" key="git4idea.merge.GitPullDialog" timestamp="1612129525575">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1026" y="429" key="git4idea.merge.GitPullDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612129525575" />
+    <state x="1030" y="521" key="git4idea.rebase.GitRebaseDialog" timestamp="1612127849111">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1030" y="521" key="git4idea.rebase.GitRebaseDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612127849111" />
+    <state x="976" y="557" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612126163326">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="976" y="557" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612126163326" />
+    <state x="1081" y="421" key="refactoring.ChangeSignatureDialog" timestamp="1611002680183">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1081" y="421" key="refactoring.ChangeSignatureDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1611002680183" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_003/lecture_snippets/01_execution_flow.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_003/02_envelop.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python38-32/Lib/site-packages/simple_draw.py</url>
+          <line>233</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_008/01_family.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_Traning$02_global_color.coverage" NAME="02_global_color Coverage Results" MODIFIED="1607343627331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004" />
+    <SUITE FILE_PATH="coverage/python_Traning$04_recursion.coverage" NAME="04_recursion Coverage Results" MODIFIED="1607328355700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004/lecture_snippets" />
+    <SUITE FILE_PATH="coverage/python_Traning$random.coverage" NAME="random Coverage Results" MODIFIED="1611062027641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python38-32/Lib" />
+    <SUITE FILE_PATH="coverage/python_Traning$09_shopping.coverage" NAME="09_shopping Coverage Results" MODIFIED="1605565163386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_circle.coverage" NAME="01_circle Coverage Results" MODIFIED="1605216243957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$03_shape_select.coverage" NAME="03_shape_select Coverage Results" MODIFIED="1607363046957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004" />
+    <SUITE FILE_PATH="coverage/python_Traning$05_zoo.coverage" NAME="05_zoo Coverage Results" MODIFIED="1605215374066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_execution_flow.coverage" NAME="01_execution_flow Coverage Results" MODIFIED="1605726130138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003/lecture_snippets" />
+    <SUITE FILE_PATH="coverage/python_Traning$04_student.coverage" NAME="04_student Coverage Results" MODIFIED="1606890909927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_district.coverage" NAME="02_district Coverage Results" MODIFIED="1607690394954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_005" />
+    <SUITE FILE_PATH="coverage/python_Traning$04_fractal.coverage" NAME="04_fractal Coverage Results" MODIFIED="1607799464926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004" />
+    <SUITE FILE_PATH="coverage/python_Traning$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1611062460241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_Traning$00_bubbles.coverage" NAME="00_bubbles Coverage Results" MODIFIED="1606824813937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_days_in_month.coverage" NAME="01_days_in_month Coverage Results" MODIFIED="1606825329809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_shapes.coverage" NAME="01_shapes Coverage Results" MODIFIED="1607334951055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004" />
+    <SUITE FILE_PATH="coverage/python_Traning$07_wall.coverage" NAME="07_wall Coverage Results" MODIFIED="1607002399482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$termcolor.coverage" NAME="termcolor Coverage Results" MODIFIED="1611001818136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python38-32/Lib/site-packages" />
+    <SUITE FILE_PATH="coverage/python_Traning$06_rainbow.coverage" NAME="06_rainbow Coverage Results" MODIFIED="1606982301161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$05_store.coverage" NAME="05_store Coverage Results" MODIFIED="1606983405353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_inhabitants.coverage" NAME="01_inhabitants Coverage Results" MODIFIED="1607688678081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_005" />
+    <SUITE FILE_PATH="coverage/python_Traning$08_garden.coverage" NAME="08_garden Coverage Results" MODIFIED="1605220249444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_operations.coverage" NAME="02_operations Coverage Results" MODIFIED="1605210507807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$06_songs_list.coverage" NAME="06_songs_list Coverage Results" MODIFIED="1605218656471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$03_man_ans_cat.coverage" NAME="03_man_ans_cat Coverage Results" MODIFIED="1611057745916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_007" />
+    <SUITE FILE_PATH="coverage/python_Traning$00_distance.coverage" NAME="00_distance Coverage Results" MODIFIED="1605209584836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$03_division.coverage" NAME="03_division Coverage Results" MODIFIED="1606887127075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_envelop.coverage" NAME="02_envelop Coverage Results" MODIFIED="1606843390735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$08_smile.coverage" NAME="08_smile Coverage Results" MODIFIED="1607012163650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_003" />
+    <SUITE FILE_PATH="coverage/python_Traning$04_my_family.coverage" NAME="04_my_family Coverage Results" MODIFIED="1605215155312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$03_favorite_movies.coverage" NAME="03_favorite_movies Coverage Results" MODIFIED="1605211423483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_snowflake.coverage" NAME="02_snowflake Coverage Results" MODIFIED="1607446783874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004/practice" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_alchemy.coverage" NAME="02_alchemy Coverage Results" MODIFIED="1610745289978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_007" />
+    <SUITE FILE_PATH="coverage/python_Traning$02_fractal.coverage" NAME="02_fractal Coverage Results" MODIFIED="1607363714622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004/practice" />
+    <SUITE FILE_PATH="coverage/python_Traning$07_secret.coverage" NAME="07_secret Coverage Results" MODIFIED="1605220246861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+  </component>
+</project>
