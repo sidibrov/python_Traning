@@ -6,15 +6,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
@@ -25,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="Start Lesson 8 01-07" />
+    <list default="true" id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="Start Lesson 8 01-07">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +32,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="JsFlowSettings">
@@ -55,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
@@ -67,6 +63,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.test1">
+    <configuration name="02_alchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_Traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_007" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_007/02_alchemy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="03_man_ans_cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_Traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,9 +176,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test1" />
+        <item itemvalue="Python.termcolor" />
         <item itemvalue="Python.random" />
         <item itemvalue="Python.03_man_ans_cat" />
-        <item itemvalue="Python.termcolor" />
+        <item itemvalue="Python.02_alchemy" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +211,8 @@
       <workItem from="1611056953830" duration="2562000" />
       <workItem from="1611690949798" duration="597000" />
       <workItem from="1612090761852" duration="2445000" />
-      <workItem from="1612124321614" duration="5551000" />
+      <workItem from="1612124321614" duration="6338000" />
+      <workItem from="1612156856109" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="Start Lesson 8">
       <created>1612126347263</created>
@@ -208,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612126971532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="что-то пошло не так">
+      <created>1612130033015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612130033015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +266,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/python_Traning/lesson_008" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -261,6 +313,7 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -289,6 +342,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -296,9 +350,14 @@
     </ignored-roots>
     <MESSAGE value="Start Lesson 8" />
     <MESSAGE value="Start Lesson 8 01-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Lesson 8 01-07" />
+    <MESSAGE value="что-то пошло не так" />
+    <option name="LAST_COMMIT_MESSAGE" value="что-то пошло не так" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1136" y="522" key="#Notifications" timestamp="1612130135263">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1136" y="522" key="#Notifications/0.0.2560.1392@0.0.2560.1392" timestamp="1612130135263" />
     <state x="864" y="202" key="#xdebugger.evaluate" timestamp="1605730670277">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
@@ -355,10 +414,10 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state x="655" y="235" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1612129878878" />
-    <state x="771" y="360" key="Vcs.Push.Dialog.v2" timestamp="1612129010382">
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2" timestamp="1612130447930">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="771" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612129010382" />
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612130447930" />
     <state x="1169" y="362" key="VcsDiffUtil.ChangesDialog" timestamp="1612127209260">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
@@ -375,10 +434,10 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state x="1006" y="451" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.2560.1392@0.0.2560.1392" timestamp="1612126709070" />
-    <state x="1026" y="429" key="git4idea.merge.GitPullDialog" timestamp="1612129525575">
+    <state x="1026" y="429" key="git4idea.merge.GitPullDialog" timestamp="1612130104676">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="1026" y="429" key="git4idea.merge.GitPullDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612129525575" />
+    <state x="1026" y="429" key="git4idea.merge.GitPullDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612130104676" />
     <state x="1030" y="521" key="git4idea.rebase.GitRebaseDialog" timestamp="1612127849111">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
