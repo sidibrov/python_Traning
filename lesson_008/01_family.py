@@ -130,7 +130,7 @@ class Husband(Person):
         self.fullness -= 10
         self.house.quantity_of_eaten_food += 10
         self.house.money += 150
-        self.house.quantity_of_earned_money +=150
+        self.house.quantity_of_earned_money += 150
         cprint(f'{self.name} сходил на работу', color='yellow')
 
     def gaming(self):
@@ -203,19 +203,19 @@ class Wife(Person):
         cprint(f'{self.name} убралась в доме', color='yellow')
 
 
-home = House()
-serge = Husband(name='Сережа', house=home)
-masha = Wife(name='Маша', house=home)
+# home = House()
+# serge = Husband(name='Сережа', house=home)
+# masha = Wife(name='Маша', house=home)
 
-for day in range(366):
-    cprint('================== День {} =================='.format(day), color='red')
-    serge.act()
-    masha.act()
-    cprint(serge, color='cyan')
-    cprint(masha, color='cyan')
-    cprint(home, color='cyan')
-cprint("=================================================", color='cyan')
-cprint(home.grand_total(), color='green')
+# for day in range(366):
+#     cprint('================== День {} =================='.format(day), color='red')
+#     serge.act()
+#     masha.act()
+#     cprint(serge, color='cyan')
+#     cprint(masha, color='cyan')
+#     cprint(home, color='cyan')
+# cprint("=================================================", color='cyan')
+# cprint(home.grand_total(), color='green')
 
 # TODO после реализации первой части - отдать на проверку учителю
 
@@ -246,7 +246,10 @@ cprint(home.grand_total(), color='green')
 
 class Cat:
 
-    def __init__(self):
+    def __init__(self, name, house):
+        self.name = name
+        if isinstance(house, House):
+            self.house = house
         pass
 
     def act(self):
@@ -273,22 +276,33 @@ class Cat:
 # отличия от взрослых - кушает максимум 10 единиц еды,
 # степень счастья  - не меняется, всегда ==100 ;)
 
-class Child:
+class Child(Person):
 
-    def __init__(self):
-        pass
+    def __init__(self, name, house):
+        super().__init__(name, house)
+        self.happiness = 100
 
     def __str__(self):
         return super().__str__()
 
     def act(self):
-        pass
+        super().act()
+        dice = randint(1, 2)
+        if self.fullness <= 10:
+            self.eat()
+        elif dice == 1:
+            self.eat()
+        elif dice == 2:
+            self.sleep()
 
     def eat(self):
-        pass
+        self.fullness += 10
+        cprint(f'{self.name}  поел', 'yellow')
 
     def sleep(self):
-        pass
+        self.fullness -= 10
+        cprint(f'{self.name}  поспал', 'yellow')
+
 
 # TODO после реализации второй части - отдать на проверку учителем две ветки
 
@@ -300,23 +314,25 @@ class Child:
 # отправить на проверку учителем.
 
 
-# home = House()
-# serge = Husband(name='Сережа')
-# masha = Wife(name='Маша')
-# kolya = Child(name='Коля')
-# murzik = Cat(name='Мурзик')
-#
-# for day in range(365):
-#     cprint('================== День {} =================='.format(day), color='red')
-#     serge.act()
-#     masha.act()
-#     kolya.act()
-#     murzik.act()
-#     cprint(serge, color='cyan')
-#     cprint(masha, color='cyan')
-#     cprint(kolya, color='cyan')
-#     cprint(murzik, color='cyan')
+home = House()
+serge = Husband(name='Сережа', house=home)
+masha = Wife(name='Маша', house=home)
+kolya = Child(name='Коля', house=home)
+murzik = Cat(name='Мурзик', house=home)
 
+for day in range(366):
+    cprint('================== День {} =================='.format(day), color='red')
+    serge.act()
+    masha.act()
+    kolya.act()
+    murzik.act()
+    cprint(serge, color='cyan')
+    cprint(masha, color='cyan')
+    cprint(kolya, color='cyan')
+    cprint(murzik, color='cyan')
+    cprint(home, color='cyan')
+cprint("=================================================", color='cyan')
+cprint(home.grand_total(), color='green')
 # Усложненное задание (делать по желанию)
 #
 # Сделать из семьи любителей котов - пусть котов будет 3, или даже 5-10.
