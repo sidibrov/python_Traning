@@ -241,22 +241,6 @@ class Wife(Person):
             cprint(f'                   В доме закончились деньги', color='white')
         cprint(f'{self.name} купил еды для кота', color='yellow')
 
-# home = House()
-# serge = Husband(name='Сережа', house=home)
-# masha = Wife(name='Маша', house=home)
-#
-# for day in range(366):
-#     cprint('================== День {} =================='.format(day), color='red')
-#     serge.act()
-#     masha.act()
-#     cprint(serge, color='cyan')
-#     cprint(masha, color='cyan')
-#     cprint(home, color='cyan')
-# cprint("=" * 78, color='cyan')
-# cprint(home.grand_total(), color='green')
-
-# TODO после реализации первой части - отдать на проверку учителю
-
 ######################################################## Часть вторая
 #
 # После подтверждения учителем первой части надо
@@ -280,7 +264,6 @@ class Wife(Person):
 # Степень сытости не должна падать ниже 0, иначе кот умрет от голода.
 #
 # Если кот дерет обои, то грязи становится больше на 5 пунктов
-
 
 class Cat:
 
@@ -366,16 +349,11 @@ class Child(Person):
         self.fullness -= 10
         cprint(f'{self.name}  поспал', 'yellow')
 
-
-# TODO после реализации второй части - отдать на проверку учителем две ветки
-
-
 ######################################################## Часть третья
 #
 # после подтверждения учителем второй части (обоих веток)
 # влить в мастер все коммиты из ветки develop и разрешить все конфликты
 # отправить на проверку учителем.
-
 
 home = House()
 serge = Husband(name='Сережа', house=home)
@@ -396,6 +374,7 @@ for day in range(366):
     cprint(home, color='cyan')
 cprint("=================================================", color='cyan')
 cprint(home.grand_total(), color='green')
+
 # Усложненное задание (делать по желанию)
 #
 # Сделать из семьи любителей котов - пусть котов будет 3, или даже 5-10.
