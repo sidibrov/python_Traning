@@ -16,9 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="Start Lesson 8 01-07">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="097190a2-ff5b-456a-983a-3a6fc81c66b8" name="Default Changelist" comment="Урок 8: Модель жизни семьи в доме: муж, жена">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_008/01_family.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_008/01_family.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,8 +62,8 @@
       <recent name="D:\python_Traning\lesson_003" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration name="02_alchemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_family (1)">
+    <configuration name="01_family (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_Traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_008" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_007/02_alchemy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_008/01_family.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_man_ans_cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01_family" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_Traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_007" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_0081" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_007/03_man_ans_cat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_0081/01_family.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_family (1)" />
+        <item itemvalue="Python.01_family" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.termcolor" />
         <item itemvalue="Python.random" />
-        <item itemvalue="Python.03_man_ans_cat" />
-        <item itemvalue="Python.02_alchemy" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,9 @@
       <workItem from="1611690949798" duration="597000" />
       <workItem from="1612090761852" duration="2445000" />
       <workItem from="1612124321614" duration="6338000" />
-      <workItem from="1612156856109" duration="1332000" />
+      <workItem from="1612156856109" duration="14288000" />
+      <workItem from="1612217371129" duration="5018000" />
+      <workItem from="1612242570445" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Start Lesson 8">
       <created>1612126347263</created>
@@ -235,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612130033015</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Insert Lesson 8">
+      <created>1612158680018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612158680018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Урок 8: Модель жизни семьи в доме: муж, жена">
+      <created>1612188749234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612188749234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +315,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="develop" />
                       </list>
                     </value>
                   </entry>
@@ -351,7 +367,9 @@
     <MESSAGE value="Start Lesson 8" />
     <MESSAGE value="Start Lesson 8 01-07" />
     <MESSAGE value="что-то пошло не так" />
-    <option name="LAST_COMMIT_MESSAGE" value="что-то пошло не так" />
+    <MESSAGE value="Insert Lesson 8" />
+    <MESSAGE value="Урок 8: Модель жизни семьи в доме: муж, жена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 8: Модель жизни семьи в доме: муж, жена" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1136" y="522" key="#Notifications" timestamp="1612130135263">
@@ -374,22 +392,22 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state x="1006" y="370" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1612125603573" />
-    <state width="2504" height="462" key="GridCell.Tab.0.bottom" timestamp="1611062470999">
+    <state width="1846" height="422" key="GridCell.Tab.0.bottom" timestamp="1612222460108">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state width="2504" height="462" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
-    <state width="2504" height="462" key="GridCell.Tab.0.center" timestamp="1611062470999">
+    <state width="1846" height="422" key="GridCell.Tab.0.bottom/0.0.2560.1392@0.0.2560.1392" timestamp="1612222460108" />
+    <state width="1846" height="422" key="GridCell.Tab.0.center" timestamp="1612222460108">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state width="2504" height="462" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
-    <state width="2504" height="462" key="GridCell.Tab.0.left" timestamp="1611062470999">
+    <state width="1846" height="422" key="GridCell.Tab.0.center/0.0.2560.1392@0.0.2560.1392" timestamp="1612222460108" />
+    <state width="1846" height="422" key="GridCell.Tab.0.left" timestamp="1612222460108">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state width="2504" height="462" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
-    <state width="2504" height="462" key="GridCell.Tab.0.right" timestamp="1611062470999">
+    <state width="1846" height="422" key="GridCell.Tab.0.left/0.0.2560.1392@0.0.2560.1392" timestamp="1612222460108" />
+    <state width="1846" height="422" key="GridCell.Tab.0.right" timestamp="1612222460108">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state width="2504" height="462" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1611062470999" />
+    <state width="1846" height="422" key="GridCell.Tab.0.right/0.0.2560.1392@0.0.2560.1392" timestamp="1612222460108" />
     <state width="2504" height="462" key="GridCell.Tab.1.bottom" timestamp="1611062471000">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
@@ -406,18 +424,18 @@
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
     <state width="2504" height="462" key="GridCell.Tab.1.right/0.0.2560.1392@0.0.2560.1392" timestamp="1611062471000" />
-    <state x="1106" y="321" key="RollbackChangesDialog" timestamp="1612129138859">
+    <state x="1106" y="321" key="RollbackChangesDialog" timestamp="1612157933392">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="1106" y="321" key="RollbackChangesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612129138859" />
-    <state x="655" y="235" key="SettingsEditor" timestamp="1612129878878">
+    <state x="1106" y="321" key="RollbackChangesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1612157933392" />
+    <state x="655" y="235" key="SettingsEditor" timestamp="1612217458380">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="655" y="235" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1612129878878" />
-    <state x="771" y="360" key="Vcs.Push.Dialog.v2" timestamp="1612130447930">
+    <state x="655" y="235" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1612217458380" />
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2" timestamp="1612188773223">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="771" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612130447930" />
+    <state x="771" y="360" key="Vcs.Push.Dialog.v2/0.0.2560.1392@0.0.2560.1392" timestamp="1612188773223" />
     <state x="1169" y="362" key="VcsDiffUtil.ChangesDialog" timestamp="1612127209260">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
@@ -469,11 +487,6 @@
           <line>233</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson_008/01_family.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -507,6 +520,7 @@
     <SUITE FILE_PATH="coverage/python_Traning$01_inhabitants.coverage" NAME="01_inhabitants Coverage Results" MODIFIED="1607688678081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_005" />
     <SUITE FILE_PATH="coverage/python_Traning$08_garden.coverage" NAME="08_garden Coverage Results" MODIFIED="1605220249444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
     <SUITE FILE_PATH="coverage/python_Traning$02_operations.coverage" NAME="02_operations Coverage Results" MODIFIED="1605210507807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_family__1_.coverage" NAME="01_family (1) Coverage Results" MODIFIED="1612242894061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_008" />
     <SUITE FILE_PATH="coverage/python_Traning$06_songs_list.coverage" NAME="06_songs_list Coverage Results" MODIFIED="1605218656471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
     <SUITE FILE_PATH="coverage/python_Traning$03_man_ans_cat.coverage" NAME="03_man_ans_cat Coverage Results" MODIFIED="1611057745916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_007" />
     <SUITE FILE_PATH="coverage/python_Traning$00_distance.coverage" NAME="00_distance Coverage Results" MODIFIED="1605209584836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
@@ -517,6 +531,7 @@
     <SUITE FILE_PATH="coverage/python_Traning$03_favorite_movies.coverage" NAME="03_favorite_movies Coverage Results" MODIFIED="1605211423483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
     <SUITE FILE_PATH="coverage/python_Traning$02_snowflake.coverage" NAME="02_snowflake Coverage Results" MODIFIED="1607446783874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004/practice" />
     <SUITE FILE_PATH="coverage/python_Traning$02_alchemy.coverage" NAME="02_alchemy Coverage Results" MODIFIED="1610745289978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_007" />
+    <SUITE FILE_PATH="coverage/python_Traning$01_family.coverage" NAME="01_family Coverage Results" MODIFIED="1612188355845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_0081" />
     <SUITE FILE_PATH="coverage/python_Traning$02_fractal.coverage" NAME="02_fractal Coverage Results" MODIFIED="1607363714622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_004/practice" />
     <SUITE FILE_PATH="coverage/python_Traning$07_secret.coverage" NAME="07_secret Coverage Results" MODIFIED="1605220246861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_002" />
   </component>
